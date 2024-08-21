@@ -5,7 +5,7 @@ This project consists in the client/server comunication using java sockets and R
 ## Instalation
 Clone this repository:
 ```
-git clone https://github.com/your-username/FSD.git 
+git clone https://github.com/JoaoMinistro17/FSD-Distributed_Systems.git
 ```
 ## Run
 Use separate terminals for running both the server and the clients. Make sure you start the server before you start any of the clients.
