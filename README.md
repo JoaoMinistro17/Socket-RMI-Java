@@ -8,7 +8,7 @@ Clone this repository:
 git clone https://github.com/your-username/FSD.git 
 ```
 ## Run
-Get at least 2 terminals (in vscode split the terminal). You will need 1 for the server end and the rest for the client types (Socket or RMI). Make sure you start the server before you start any of the clients.
+Use separate terminals for running both the server and the clients. Make sure you start the server before you start any of the clients.
 
 Note: 
 ```javac``` is for compiling
