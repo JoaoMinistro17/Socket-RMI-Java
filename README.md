@@ -1,6 +1,6 @@
 # FSD - Distributed Systems
 
-This project consists in the client/server comunication using java sockets and RMI methods.
+This project consists in the client/server communication with java sockets and RMI.
 
 ## Instalation
 Clone this repository:
