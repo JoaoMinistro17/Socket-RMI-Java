@@ -29,7 +29,7 @@ java Client/Client
 ```
 ### Terminal 2 (for RMI Client):
 ```
-javac Client/CLientRMI.java
+javac Client/ClientRMI.java
 ```
 ```
 java Client/ClientRMI
