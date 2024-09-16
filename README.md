@@ -1,5 +1,7 @@
 # FSD - Distributed Systems
 
+FSD - Stands for distributed systems fundamentals (Fundamentos dos sistemas distribuidos)
+
 This project consists in the client/server communication with java sockets and RMI.
 
 ## Instalation
