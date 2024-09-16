@@ -29,9 +29,9 @@ java Client/Client
 ```
 ### Terminal 2 (for RMI Client):
 ```
-javac Client/RMICLient.java
+javac Client/CLientRMI.java
 ```
 ```
-java Client/RMIClient
+java Client/ClientRMI
 ```
 This displays both comunication ends in a stock of 4 products and contains unfinished security measures in the requests and responses.
