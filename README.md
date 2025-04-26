@@ -5,7 +5,7 @@ This project consists in client/server communication using socket and RMI.
 ## Instalation
 Clone this repository:
 ```
-git clone https://github.com/JoaoMinistro17/FSD-Distributed_Systems.git
+git clone https://github.com/JoaoMinistro17/Socket-RMI-Java.git
 ```
 ## Run
 Use separate terminals for running both the server and the clients. Make sure you start the server before you start any of the clients.
